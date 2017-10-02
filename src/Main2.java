@@ -6,8 +6,8 @@ public class Main2 {
         Scanner src=new Scanner(System.in);
         int x=src.nextInt()%2;
         {if(x==1)
-            System.out.println("奇數");
+            System.out.println("Odd");
         else
-            System.out.println("偶數");}
+            System.out.println("Even");}
     }
 }
